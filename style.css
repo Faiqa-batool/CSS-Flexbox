@@ -1,1 +1,52 @@
+body{
+    background: radial-gradient(white, pink);
+}
+.container{
+    border: 2px solid red;
+    display: flex;
+    height: 80vh;
+    /* justify-content: center; */
+    align-items: center;
+    /* flex-direction: row-reverse; */
+    /* flex-wrap: wrap; */
+    /* align-content: flex-start;   */
+    /* align-items used to control the items in more than one line after wrapping them */
+    /* flex-flow: row wrap; */
+    /* gap: 30px; */
+    /* row-gap: 30px; */
+    /* column-gap: 50px; */
+    gap: 40px 10px;
+}
+.item{
+    height: 94px;
+    width: 94px;
+    background-color: rgb(139, 56, 198);
+    border: 2px solid black;
+    /* margin: 4px; */
+    color: white;
+    font-family: sans-serif;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-grow: 1; */
+}
 
+/* .order-1{
+    order: 1;
+}
+.order-2{
+    order: 2;
+}
+.order-3{
+    order: 3;
+} */
+
+.item1{
+    /* flex-grow: 5; */
+    /* flex-shrink: 2; */
+    align-self: flex-end;
+}
+.item3{
+    align-self: flex-start;
+}
