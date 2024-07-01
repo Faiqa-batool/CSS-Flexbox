@@ -21,3 +21,10 @@ Justify-content : center; /flex-start /flex-end /space-berwen /space-evenly /spa
 align-items: center; </br>
 // align items vertically
 </br>
+
+![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/6fc6a247-295f-4287-b678-fce3fb6314e2)
+
+</br>
+
+But it depends on flex-direction, that is row by default.</br>
+flex-direction: column;</br>
