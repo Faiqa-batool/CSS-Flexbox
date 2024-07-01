@@ -32,3 +32,7 @@ flex-direction: column;</br>
 ![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/aaa1cf8f-e975-438f-a60b-36414bda530c)
 
 </br>
+flex-direction: column-reverse;</br>
+
+![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/bef11961-3c1d-466c-a939-1ddbd203245e)
+</br>
