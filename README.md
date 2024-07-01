@@ -47,3 +47,10 @@ But it depends on flex-direction, that is row by default.</br>
 
 ![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/8b367864-fedc-4abd-a0c6-405f1194ef90)
 </br>
+
+### Flex-axes concept:
+
+![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/73bc6924-9ee3-433a-9e9e-9c55c9b3ccb9)
+</br>
+Justify-content works along main-axis
+</br>
