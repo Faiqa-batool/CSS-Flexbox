@@ -42,3 +42,8 @@ But it depends on flex-direction, that is row by default.</br>
 
 ![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/bef11961-3c1d-466c-a939-1ddbd203245e)
 </br>
+
+### flex-direction: row-reverse;
+
+![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/8b367864-fedc-4abd-a0c6-405f1194ef90)
+</br>
