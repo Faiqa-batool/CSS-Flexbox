@@ -28,3 +28,7 @@ align-items: center; </br>
 
 But it depends on flex-direction, that is row by default.</br>
 flex-direction: column;</br>
+
+![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/aaa1cf8f-e975-438f-a60b-36414bda530c)
+
+</br>
