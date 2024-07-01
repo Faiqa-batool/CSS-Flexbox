@@ -20,3 +20,4 @@ Justify-content : center; /flex-start /flex-end /space-berwen /space-evenly /spa
 </br>
 align-items: center; </br>
 // align items vertically
+</br>
