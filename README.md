@@ -17,3 +17,6 @@ Justify-content : center; /flex-start /flex-end /space-berwen /space-evenly /spa
 //align item horizontally
 
 ![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/15c1a2e0-f2ac-465a-a39e-7cbbc1f18257)
+</br>
+align-items: center; </br>
+// align items vertically
