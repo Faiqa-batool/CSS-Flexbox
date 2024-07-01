@@ -6,3 +6,4 @@ We apply display: flex; to the parent div, so that the flexbox sets the position
 Before applying flexbox:
 
 ![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/6c54749e-23c3-4f34-9c11-bd36dee25d1d)
+</br>
