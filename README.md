@@ -17,7 +17,7 @@ display: flex;
 
 ### Justify-content : center; 
 
-/flex-start /flex-end /space-berwen /space-evenly /space-around </br>
+/flex-start /flex-end /space-betwen /space-evenly /space-around </br>
 //align item horizontally
 
 ![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/15c1a2e0-f2ac-465a-a39e-7cbbc1f18257)
