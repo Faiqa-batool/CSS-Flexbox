@@ -10,6 +10,8 @@ We apply display: flex; to the parent div, so that the flexbox sets the position
 
 ### After Applying Flexbox:
 
+display: flex;
+
 ![image](https://github.com/Faiqa-batool/CSS-Flexbox/assets/115587465/8029c326-7a50-473d-ab19-ad5767f0a4d5)
 </br>
 
